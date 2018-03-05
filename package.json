@@ -19,7 +19,7 @@
     "enzyme": "^2.9.1",
     "eslint": "^4.1.1",
     "eslint-plugin-react": "^7.1.0",
-    "i18nliner": "~0.2.1",
+    "i18nliner": "betagouv/i18nliner-js",
     "jest-cli": "^20.0.4",
     "react": "^15.0.0",
     "react-addons-test-utils": "^15.1.0",
@@ -27,7 +27,7 @@
     "react-test-renderer": "^15.6.1"
   },
   "peerDependencies": {
-    "i18nliner": "~0.2.2",
+    "i18nliner": "betagouv/i18nliner-js",
     "react": "0.13.x || 0.14.x || ^15.0.0"
   },
   "jest": {
